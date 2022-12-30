@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>imgs/chk_off.png</file>
+        <file>imgs/chk_on.png</file>
+        <file>imgs/close.png</file>
+        <file>imgs/minimize.png</file>
+        <file>imgs/clear.png</file>
+        <file>imgs/save.png</file>
+        <file>imgs/dns.png</file>
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>D2DoHN_zh_CN.qm</file>
+    </qresource>
+</RCC>
